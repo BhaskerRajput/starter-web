@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name>Bhasker Rajput<twitter>
+ <name>bhasker rajput from jhansi<twitter>
+
 
 # THANKS
 
