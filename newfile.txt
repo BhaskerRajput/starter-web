@@ -1,0 +1,1 @@
+this is used for stash pop practical and checking what git stash tracks
